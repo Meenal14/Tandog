@@ -1,0 +1,139 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#title {
+  background-color: #ff4c68;
+  padding: 3% 15%;
+}
+
+.ubuntu-regular {
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+/* body {
+  font-family: 'Montserrat', sans-serif;
+} */
+/*
+.container-fluid {
+  padding: 3% 15%;
+}*/
+
+.montserrat-b {
+  font-family: 'Montserrat-', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+
+  font-size: 3rem;
+}
+
+.cl1 {
+  font-family: 'Montserrat', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 900;
+  font-style: normal;
+  color: #fff;
+  padding: 4.5rem;
+}
+.nav-item {
+  padding: 0 18px;
+}
+.nav-link {
+  font-size: 1.2rem;
+}
+.downb {
+  margin: 5% 3% 5% 0;
+}
+.tit-img {
+  padding-top: 30px;
+  width: 60%;
+  transform: rotate(25deg);
+}
+
+/* feature */
+
+#features {
+  padding: 7% 15%;
+  text-align: center;
+}
+/* .features-item {
+  padding-left: 20px;
+} */
+.features-img {
+  color: #ef8172;
+  margin-bottom: 1rem;
+}
+.features-img:hover {
+  color: #ff4c68;
+}
+.features-head {
+  /* font-family: 'Montserrat-bold'; */
+  font-weight: 700;
+  padding-bottom: 5%;
+}
+.features-para {
+  color: #8f8f8f;
+}
+
+/* Testimonials */
+#testimonials {
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+}
+.montserrat-bb {
+  font-family: 'Montserrat', sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1.5;
+  font-size: 2.5rem;
+}
+.testimonials-image {
+  width: 20%;
+  margin: 20px;
+  border-radius: 50%;
+}
+#press {
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 3%;
+}
+.press-logo {
+  width: 15%;
+  margin: 20px 20px 50px;
+}
+.carousel-inner {
+  padding: 7% 15%;
+}
+
+/* Pricing */
+
+.card {
+  padding: 0px 0px;
+}
+.price-button {
+  width: 100%;
+}
+#pricing {
+  padding: 7% 15%;
+  text-align: center;
+}
+.price-col {
+  padding: 3% 2%;
+}
+.price-head2 {
+  font-size: 33px;
+}
+.price-head1 {
+  font-size: 19px;
+}
+.price-para {
+  color: #8f8f8f;
+  line-height: 0.9rem;
+  font-size: 13px;
+}
